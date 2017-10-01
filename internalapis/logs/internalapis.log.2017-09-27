@@ -1,0 +1,30 @@
+2017-09-27 15:04:02 WARN  [main]: o.h.v.m.ParameterMessageInterpolator:28 - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2017-09-27 15:04:03 WARN  [main]: o.h.v.m.ParameterMessageInterpolator:28 - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2017-09-27 15:09:52 INFO  [main]: c.m.s.App:48 - Starting App on Manamohans-MacBook-Pro.local with PID 21226 (/Users/manamohanpanda/git/newway/internalapis/build/classes/main started by manamohanpanda in /Users/manamohanpanda/git/newway/internalapis)
+2017-09-27 15:09:52 DEBUG [main]: c.m.s.App:51 - Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-27 15:09:52 INFO  [main]: c.m.s.App:593 - No active profile set, falling back to default profiles: default
+2017-09-27 15:09:55 INFO  [main]: c.m.s.App:57 - Started App in 17.807 seconds (JVM running for 18.756)
+2017-09-27 15:14:44 INFO  [main]: c.m.s.App:48 - Starting App on Manamohans-MacBook-Pro.local with PID 21241 (/Users/manamohanpanda/git/newway/internalapis/build/classes/main started by manamohanpanda in /Users/manamohanpanda/git/newway/internalapis)
+2017-09-27 15:14:44 DEBUG [main]: c.m.s.App:51 - Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-27 15:14:44 INFO  [main]: c.m.s.App:593 - No active profile set, falling back to default profiles: default
+2017-09-27 15:14:47 INFO  [main]: c.m.s.App:57 - Started App in 18.381 seconds (JVM running for 19.239)
+2017-09-27 15:17:58 INFO  [main]: c.m.s.App:48 - Starting App on Manamohans-MacBook-Pro.local with PID 21255 (/Users/manamohanpanda/git/newway/internalapis/build/classes/main started by manamohanpanda in /Users/manamohanpanda/git/newway/internalapis)
+2017-09-27 15:17:58 DEBUG [main]: c.m.s.App:51 - Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-27 15:17:58 INFO  [main]: c.m.s.App:593 - No active profile set, falling back to default profiles: default
+2017-09-27 15:18:01 INFO  [main]: c.m.s.App:57 - Started App in 18.045 seconds (JVM running for 18.965)
+2017-09-27 17:53:24 INFO  [main]: c.m.s.App:48 - Starting App on Manamohans-MacBook-Pro.local with PID 22008 (/Users/manamohanpanda/git/newway/internalapis/build/classes/main started by manamohanpanda in /Users/manamohanpanda/git/newway/internalapis)
+2017-09-27 17:53:24 DEBUG [main]: c.m.s.App:51 - Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-27 17:53:24 INFO  [main]: c.m.s.App:593 - No active profile set, falling back to default profiles: default
+2017-09-27 17:53:27 INFO  [main]: c.m.s.App:57 - Started App in 18.223 seconds (JVM running for 19.175)
+2017-09-27 17:53:49 DEBUG [http-nio-9000-exec-1]: c.m.s.UserService:23 - Request from - 0:0:0:0:0:0:0:1
+2017-09-27 17:55:11 DEBUG [http-nio-9000-exec-4]: c.m.s.UserService:23 - Request from - 0:0:0:0:0:0:0:1
+2017-09-27 17:57:46 INFO  [main]: c.m.s.App:48 - Starting App on Manamohans-MacBook-Pro.local with PID 22027 (/Users/manamohanpanda/git/newway/internalapis/build/classes/main started by manamohanpanda in /Users/manamohanpanda/git/newway/internalapis)
+2017-09-27 17:57:46 DEBUG [main]: c.m.s.App:51 - Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-27 17:57:46 INFO  [main]: c.m.s.App:593 - No active profile set, falling back to default profiles: default
+2017-09-27 17:57:49 INFO  [main]: c.m.s.App:57 - Started App in 18.367 seconds (JVM running for 19.568)
+2017-09-27 17:58:52 INFO  [main]: c.m.s.App:48 - Starting App on Manamohans-MacBook-Pro.local with PID 22031 (/Users/manamohanpanda/git/newway/internalapis/build/classes/main started by manamohanpanda in /Users/manamohanpanda/git/newway/internalapis)
+2017-09-27 17:58:52 DEBUG [main]: c.m.s.App:51 - Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-27 17:58:52 INFO  [main]: c.m.s.App:593 - No active profile set, falling back to default profiles: default
+2017-09-27 17:58:55 INFO  [main]: c.m.s.App:57 - Started App in 18.547 seconds (JVM running for 19.447)
+2017-09-27 17:58:56 DEBUG [http-nio-9000-exec-1]: c.m.s.UserService:35 - Hello :
+{accept-language=en-US,en;q=0.8, cookie=_ga=GA1.1.997111737.1469778912, host=localhost:9000, upgrade-insecure-requests=1, connection=keep-alive, cache-control=max-age=0, accept-encoding=gzip, deflate, br, user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36, accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8}
